@@ -4,6 +4,7 @@
     <mapping directory="$PROJECT_DIR$/../.." vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Web server" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ecom-frontend-2" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/webapp" vcs="Git" />
   </component>
 </project>
