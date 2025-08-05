@@ -1,13 +1,13 @@
-package com.krushnakakde.restapi;
+package com.codingshuttle.youtube.LearningRESTAPIs;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class RestapiApplication {
+public class LearningRestapIsApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(RestapiApplication.class, args);
+		SpringApplication.run(LearningRestapIsApplication.class, args);
 	}
 
 }
